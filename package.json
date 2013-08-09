@@ -1,0 +1,26 @@
+{
+  "name": "wii-controller",
+  "version": "0.1.0",
+  "description": "Wii controller for node",
+  "main": "./lib/wii.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrew/node-wii-controller.git"
+  },
+  "keywords": [
+    "wii",
+    "controller",
+    "gaming"
+  ],
+  "dependencies": {
+    "node-hid": ">=0"
+  },
+  "author": "Andrew Nesbitt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrew/node-wii-controller/issues"
+  }
+}

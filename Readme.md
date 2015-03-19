@@ -1,4 +1,4 @@
-# Node Wii Controller
+# [Node Wii Controller](http://libraries.io/npm/wii-controller)
 
 Interface for Wiimote game controller into Node.js
 
